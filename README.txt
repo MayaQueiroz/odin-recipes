@@ -1,0 +1,1 @@
+The HTML Recipe project is a skill analysis and testing project based on HTML lessons from the Odin Project website. It is expected the use of semantic HTML learned in class and later the use of CSS in future classes.
